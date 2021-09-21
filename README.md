@@ -1,4 +1,9 @@
-# 코로나 시대의 시각장애대학생을 위한 온라인 동영상 강의 화면의 자동 음성 해설 서비스
+# 숙명여자대학교 IT공학전공 2021년 1학기 졸업 프로젝트
+
+## 프로젝트명 
+#### 코로나 시대의 시각장애대학생을 위한 온라인 동영상 강의 화면의 자동 음성 해설 서비스
+
+## 프로젝트 
 강의 동영상 파일에 강의 슬라이드 화면을 읽어주는 해설을 추가한 비디오 파일을 시각장애 학생이 사용하기 용이하도록 전용 웹 플레이어로 재생할 수 있도록 한다
 
 ## 발표 영상 링크
@@ -61,7 +66,7 @@ https://poppler.freedesktop.org/
 * 이후 microsoft azure computer vision 설정 가이드 참고
 => https://docs.microsoft.com/ko-kr/azure/cognitive-services/computer-vision/quickstarts-sdk/image-analysis-client-library?pivots=programming-language-python&tabs=visual-studio
 
-## 주의사항 안내
+## 설치 환경
 브라우저 : Internet Explorer, Firefox (Chrome, Microsoft Edge 제외)
 
 ## 시연 예시 이미지
